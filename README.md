@@ -1,2 +1,3 @@
-# UniversidadJavaRest
-Java JPA Springboot Mysql Rest
+# UniversidadRest
+
+Java rest spring boot jpa

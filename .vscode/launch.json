@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<tiendaVirtualService>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tiendavirtual.configuration.Application",
+            "projectName": "tiendaVirtualService",
+            "args": ""
+        }
+    ]
+}
